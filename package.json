@@ -1,7 +1,7 @@
 {
   "name": "angular-gettext-tools-strict",
   "description": "Fork for adding use strict with angular gettext tools for extracting/compiling angular-gettext strings.",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "homepage": "http://angular-gettext.rocketeer.be/",
   "author": {
     "name": "Osvaldo Flores",
