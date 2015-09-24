@@ -1,19 +1,19 @@
 {
-  "name": "angular-gettext-tools",
-  "description": "Tools for extracting/compiling angular-gettext strings.",
+  "name": "angular-gettext-tools-strict",
+  "description": "Fork for adding use strict with angular gettext tools for extracting/compiling angular-gettext strings.",
   "version": "2.1.4",
   "homepage": "http://angular-gettext.rocketeer.be/",
   "author": {
-    "name": "Ruben Vermeersch",
-    "email": "ruben@rocketeer.be",
-    "url": "http://rocketeer.be"
+    "name": "Osvaldo Flores",
+    "email": "valin07@gmail.com",
+    "url": "https://github.com/valin07"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubenv/angular-gettext-tools.git"
+    "url": "https://github.com/valin07/angular-gettext-tools"
   },
   "bugs": {
-    "url": "https://github.com/rubenv/angular-gettext-tools/issues"
+    "url": "https://github.com/valin07/angular-gettext-toolss/issues"
   },
   "license": "MIT",
   "main": "index.js",
